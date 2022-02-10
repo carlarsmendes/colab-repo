@@ -2,6 +2,7 @@
 
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
+* Added a 3rd party
 
 ## Objective of this repo
 
