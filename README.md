@@ -14,6 +14,7 @@ It will be a simulation for your real working environment where you will be work
 * On Settings, add the other team members as collaborators
 * You can either git clone or fork the project *(clone is more common for smaller projects)*
 * Link your local repo to your remote repo and immediately do a succession of add-> commit-> push to see if everything is OK
+* To check your remote repo write ```git remote -v``` on your terminal
 
 ## Some golden rules
 
