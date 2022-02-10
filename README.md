@@ -1,4 +1,7 @@
-# Collaboration & Collaborative Repo (In construction)
+# Collaboration & Collaborative Repo
+
+## Collaborators!
+* [Carla Mendes](https://github.com/carlarsmendes/)
 
 ## Objective of this repo
 
@@ -15,15 +18,15 @@ It will be a simulation for your real working environment where you will be work
 ## Some golden rules
 
 * Write good commit messages!
-* Decide earlier on on the divisions of tasks so that you avoid working on the same files
+* Communicate so that you avoid working on the same files
 * Have a trello board (or similar) to divide your tasks
-* Always have antoher team member as a reviewer of your Pull Request (PR)
+* Always have other team member as a reviewer of your Pull Request (PR)
 * Commit often and as soon as an individual feature (or fix) is working
 * Test your code before opening a PR and/or merging
-* Make sure your branches are coming from your master branch
+* Make sure your branches are coming from the master branch
 * Pull the most recent code and fix your conflicts before merging your PR
 * Always make sure you're working with the most recent codebase
-* Delete your branch onde you're done with it - Keep your branches tree clean!
+* Delete your branch once you're done with it - Keep your tree clean!
 * Decide on code formatting rules from the start, *Eg.: Everyone uses Prettier, or no one uses it*
 * Version control DOES NOT replace communication. Keep your team updated on your current work tasks
 
@@ -45,4 +48,3 @@ It will be a simulation for your real working environment where you will be work
 * ```git reset filename``` Remove a file from the staging area
 * ```echo filename >> .gitignore``` Adds file to .gitignore file
 * ```git revert c856893c ``` Revert pushed commit c856893c
-* 
