@@ -32,6 +32,7 @@ It will be a simulation for your real working environment where you will be work
 * Delete your branch once you're done with it - Keep your tree clean!
 * Decide on code formatting rules from the start, *Eg.: Everyone uses Prettier, or no one uses it*
 * Version control DOES NOT replace communication. Keep your team updated on your current work tasks
+* Decide on how to split your tasks - Eg.: User Stories
 
 ## Useful Git commands
 
