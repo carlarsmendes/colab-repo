@@ -3,6 +3,7 @@
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
 * [Diogo Carneiro](https://github.com/diogoascarneiro/)
+* [André Gregório](https://github.com/andregn26)
 * Added a 3rd party
 
 ## Objective of this repo
