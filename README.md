@@ -4,6 +4,7 @@
 * [Carla Mendes](https://github.com/carlarsmendes/)
 * [Michael Foley](https://github.com/micfol/)
 * Someone else
+* [Corentin Aesch](https://github.com/CorentinAesch/)
 * [Diogo Carneiro](https://github.com/diogoascarneiro/)
 * [André Gregório](https://github.com/andregn26)
 * [Ana Modesto](https://github.com/AnaModesto21)
