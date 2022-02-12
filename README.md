@@ -2,8 +2,15 @@
 
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
+* [Michael Foley](https://github.com/micfol/)
 * Someone else
 * [Corentin Aesch](https://github.com/CorentinAesch/)
+* [Diogo Carneiro](https://github.com/diogoascarneiro/)
+* [André Gregório](https://github.com/andregn26)
+* [Ana Modesto](https://github.com/AnaModesto21)
+* [João Nacho](https://github.com/joaonacho)
+* [Vitor Afonso](https://github.com/vitor-afonso)
+* [Rachouan Rejeb](https://github.com/Rachouan)
 * Added a 3rd party
 
 ## Objective of this repo
