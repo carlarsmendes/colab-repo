@@ -5,6 +5,7 @@
 * [Diogo Carneiro](https://github.com/diogoascarneiro/)
 * [André Gregório](https://github.com/andregn26)
 * [Ana Modesto](https://github.com/AnaModesto21)
+* [João Nacho] (https://github.com/joaonacho)
 * Added a 3rd party
 
 ## Objective of this repo
