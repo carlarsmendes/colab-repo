@@ -5,12 +5,9 @@
 * [Diogo Carneiro](https://github.com/diogoascarneiro/)
 * [André Gregório](https://github.com/andregn26)
 * [Ana Modesto](https://github.com/AnaModesto21)
-<<<<<<< HEAD
-=======
 * [João Nacho](https://github.com/joaonacho)
 * [Vitor Afonso](https://github.com/vitor-afonso)
 * [Rachouan Rejeb](https://github.com/Rachouan)
->>>>>>> c3555715583f3f0357e4615b1fe580b370afbd41
 * Added a 3rd party
 
 ## Objective of this repo
