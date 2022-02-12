@@ -2,6 +2,7 @@
 
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
+* [Michael Foley](https://github.com/micfol/)
 * Someone else
 * Added a 3rd party
 
