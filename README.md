@@ -3,6 +3,7 @@
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
 * Someone else
+* [Corentin Aesch](https://github.com/CorentinAesch/)
 * Added a 3rd party
 
 ## Objective of this repo
