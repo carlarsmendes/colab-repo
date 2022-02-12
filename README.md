@@ -2,7 +2,7 @@
 
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
-* Someone else
+* [Diogo Carneiro](https://github.com/diogoascarneiro/)
 * Added a 3rd party
 
 ## Objective of this repo
