@@ -3,7 +3,6 @@
 ## Collaborators!
 * [Carla Mendes](https://github.com/carlarsmendes/)
 * [Michael Foley](https://github.com/micfol/)
-* Someone else
 * [Corentin Aesch](https://github.com/CorentinAesch/)
 * [Diogo Carneiro](https://github.com/diogoascarneiro/)
 * [André Gregório](https://github.com/andregn26)
@@ -11,7 +10,6 @@
 * [João Nacho](https://github.com/joaonacho)
 * [Vitor Afonso](https://github.com/vitor-afonso)
 * [Rachouan Rejeb](https://github.com/Rachouan)
-* Added a 3rd party
 
 ## Objective of this repo
 
@@ -59,4 +57,6 @@ It will be a simulation for your real working environment where you will be work
 * ```git reset --hard HEAD-2``` Undo last 2 commits (locally) and discard changes
 * ```git reset filename``` Remove a file from the staging area
 * ```echo filename >> .gitignore``` Adds file to .gitignore file
-* ```git revert c856893c ``` Revert pushed commit c856893c
+* ```git revert c856893c``` Revert pushed commit c856893c
+* ```git remote add upstream connection-url``` When you fork a repo and need to add the "parent" repo as upstream, use this command 
+* ```git pull upstream master``` Pull from the upstream repo, master branch
